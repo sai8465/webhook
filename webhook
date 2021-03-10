@@ -1,1 +1,2 @@
-echo saikrishna
+touch sample.txt
+echo "g"
